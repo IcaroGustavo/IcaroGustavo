@@ -46,12 +46,15 @@ Ao longo desses 10 anos, consolidei uma atuação versátil que transita entre a
 #### **Especialidades Técnicas**
 * **Tech Lead:** Liderança técnica e compartilhamento de conhecimento
 * **Engenharia de Software:** Foco em padrões e otimização de código
-* **Análise e Desenvolvimento de Sistemas** - Estácio (2010)
 
 ---
 
 ### 📈 Estatísticas
-![Estatísticas do Ícaro](https://github-readme-stats.vercel.app/api?username=IcaroGustavo&show_icons=true&theme=dracula)
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroGustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroGustavo&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
 
